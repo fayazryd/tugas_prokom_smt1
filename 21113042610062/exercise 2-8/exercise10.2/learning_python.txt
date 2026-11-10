@@ -1,3 +1,0 @@
-In Python you can membuat variabel untuk menyimpan nilai.
-In Python you can menulis fungsi agar kode bisa dipakai ulang.
-In Python you can memakai list dan dictionary untuk mengelola data.
